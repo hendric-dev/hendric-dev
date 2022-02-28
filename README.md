@@ -23,4 +23,6 @@ I'd like to share some awesome tools/frameworks/languages that I used recently, 
 - [Vector](https://vector.dev/) - Ever needed to streamline logging? I can't recommend Vector enough.
 - [Vue](https://vuejs.org/) - Currently my first choice for web development.
 
+---
+
 ![Hendric's github stats](https://github-readme-stats.vercel.app/api?username=hendric-dev&count_private=true&show_icons=true&theme=default)
