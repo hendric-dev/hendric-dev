@@ -20,7 +20,7 @@ I'd like to share some awesome tools/frameworks/languages that I used recently, 
 - [Grafana](https://grafana.com/) - Powerful (and beautiful) dashboards for logs and metrics.
 - [Playwright](https://playwright.dev/) - End-to-end web testing framework with lots of great features.
 - [Rust](https://www.rust-lang.org/) - Give it a shot if you never used it before. It's an awesome language.
-- [SurrealDB](https://surrealdb.com/) - I've never used such a flexible database
+- [SurrealDB](https://surrealdb.com/) - I've never used such a flexible database.
 - [Tauri](https://tauri.app/) - Promising project for multi-platform frontends.
 - [Vector](https://vector.dev/) - Ever needed to streamline logging? I can't recommend Vector enough.
 - [VitePress](https://vitepress.dev/) - Converts markdown files into a nice looking static website for documentation.
