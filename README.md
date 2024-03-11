@@ -6,21 +6,25 @@
 
 ## About Me
 
-- 💻 Full-Stack Developer
+- 💻 Senior Full-Stack Engineer
 - 💖 Tech!
 - 🏠 Living in Dresden, Germany
-- 👨‍💻 Working at [OSP](https://osp.de/en)
+- 👨‍💻 Working at [**LYNQ**TECH](https://www.lynq.tech/)
 
 ## Most Loved Tools
 
 I'd like to share some awesome tools/frameworks/languages that I used recently, which gave me a great dev experience.
 
+- [Biome](https://biomejs.dev/) - Linter & Formatter. Great alternative to Eslint.
 - [Earthly](https://earthly.dev/) - Repeatable Builds. Everywhere.
-- [Grafana](https://grafana.com/) - Crazy powerful dashboards for logs and metrics. They are doing a great job with their latest releases.
+- [Grafana](https://grafana.com/) - Powerful (and beautiful) dashboards for logs and metrics.
 - [Playwright](https://playwright.dev/) - End-to-end web testing framework with lots of great features.
 - [Rust](https://www.rust-lang.org/) - Give it a shot if you never used it before. It's an awesome language.
-- [Tanka](https://tanka.dev/) - Check out Tanka if you regularly work with Kubernetes. Gives a lot more flexibility than plain old YAML.
+- [SurrealDB](https://surrealdb.com/) - I've never used such a flexible database
+- [Tauri](https://tauri.app/) - Promising project for multi-platform frontends.
 - [Vector](https://vector.dev/) - Ever needed to streamline logging? I can't recommend Vector enough.
+- [VitePress](https://vitepress.dev/) - Converts markdown files into a nice looking static website for documentation.
+- [Vitest](https://vitest.dev/) - Hot Reloading for tests. Do I need to say more?
 - [Vue](https://vuejs.org/) - Currently my first choice for web development.
 
 ---
