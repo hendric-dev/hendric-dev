@@ -6,9 +6,8 @@
 
 ## About Me
 
-- 💻 Senior Full-Stack Engineer
+- 💻 Development Lead
 - 💖 Tech!
-- 🏠 Living in Dresden, Germany
 - 👨‍💻 Working at [**LYNQ**TECH](https://www.lynq.tech/)
 
 ## Most Loved Tools
