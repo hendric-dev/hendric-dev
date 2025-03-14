@@ -14,17 +14,17 @@
 
 I'd like to share some awesome tools/frameworks/languages that I used recently, which gave me a great dev experience.
 
-- [Biome](https://biomejs.dev/) - Linter & Formatter. Great alternative to Eslint.
-- [Earthly](https://earthly.dev/) - Repeatable Builds. Everywhere.
-- [Grafana](https://grafana.com/) - Powerful (and beautiful) dashboards for logs and metrics.
-- [Playwright](https://playwright.dev/) - End-to-end web testing framework with lots of great features.
-- [Rust](https://www.rust-lang.org/) - Give it a shot if you never used it before. It's an awesome language.
-- [SurrealDB](https://surrealdb.com/) - I've never used such a flexible database.
-- [Tauri](https://tauri.app/) - Promising project for multi-platform frontends.
-- [Vector](https://vector.dev/) - Ever needed to streamline logging? I can't recommend Vector enough.
-- [VitePress](https://vitepress.dev/) - Converts markdown files into a nice looking static website for documentation.
-- [Vitest](https://vitest.dev/) - Hot Reloading for tests. Do I need to say more?
-- [Vue](https://vuejs.org/) - Currently my first choice for web development.
+- [Biome](https://biomejs.dev/)
+- [Earthly](https://earthly.dev/)
+- [Grafana](https://grafana.com/)
+- [Playwright](https://playwright.dev/)
+- [Rust](https://www.rust-lang.org/)
+- [SurrealDB](https://surrealdb.com/)
+- [Tauri](https://tauri.app/)
+- [Vector](https://vector.dev/)
+- [VitePress](https://vitepress.dev/)
+- [Vitest](https://vitest.dev/)
+- [Vue](https://vuejs.org/)
 
 ---
 
