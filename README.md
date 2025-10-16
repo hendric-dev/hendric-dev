@@ -15,7 +15,6 @@
 I'd like to share some awesome tools/frameworks/languages that I used recently, which gave me a great dev experience.
 
 - [Biome](https://biomejs.dev/)
-- [Earthly](https://earthly.dev/)
 - [Grafana](https://grafana.com/)
 - [Playwright](https://playwright.dev/)
 - [Rust](https://www.rust-lang.org/)
