@@ -22,13 +22,13 @@ My personal awesome list of tools/frameworks/languages.
 
 #### UI
 
-<div class="flex flex-col gap-2">
-  <div class="align-items-center flex gap-2">
+<div style="display: flex; flex-direction: column; gap: 0.5rem;">
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
     <img src="./assets/icons/dioxus.svg" width="30px">
     <a href="https://dioxuslabs.com/">Dioxus</a>
   </div>
 
-  <div class="align-items-center flex gap-2">
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
     <img src="./assets/icons/vue-js.svg" width="30px">
     <a href="https://vuejs.org/">Vue.js</a>
   </div>
@@ -36,8 +36,8 @@ My personal awesome list of tools/frameworks/languages.
 
 #### Languages
 
-<div class="flex gap-2">
-  <div class="align-items-center flex gap-2">
+<div style="display: flex; gap: 0.5rem;">
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
     <img src="./assets/icons/rust.svg" width="30px">
     <a href="https://www.rust-lang.org/">Rust</a>
   </div>
@@ -45,13 +45,13 @@ My personal awesome list of tools/frameworks/languages.
 
 #### Databases
 
-<div class="flex flex-col gap-2">
-  <div class="align-items-center flex gap-2">
+<div style="display: flex; flex-direction: column; gap: 0.5rem;">
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
     <img src="./assets/icons/spacetimedb.svg" width="30px">
     <a href="https://spacetimedb.com/">SpacetimeDB</a>
   </div>
 
-  <div class="align-items-center flex gap-2">
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
     <img src="./assets/icons/surrealdb.svg" width="30px">
     <a href="https://surrealdb.com/">SurrealDB</a>
   </div>
@@ -59,18 +59,18 @@ My personal awesome list of tools/frameworks/languages.
 
 #### Observability
 
-<div class="flex flex-col gap-2">
-  <div class="align-items-center flex gap-2">
+<div style="display: flex; flex-direction: column; gap: 0.5rem;">
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
     <img src="./assets/icons/grafana.svg" width="30px">
     <a href="https://grafana.com/">Grafana</a>
   </div>
 
-  <div class="align-items-center flex gap-2">
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
     <img src="./assets/icons/opentelemetry.svg" width="30px">
     <a href="https://opentelemetry.io/">OpenTelemetry</a>
   </div>
 
-  <div class="align-items-center flex gap-2">
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
     <img src="./assets/icons/vector.png" width="30px">
     <a href="https://vector.dev/">Vector</a>
   </div>
@@ -78,13 +78,13 @@ My personal awesome list of tools/frameworks/languages.
 
 #### Testing
 
-<div class="flex flex-col gap-2">
-  <div class="align-items-center flex gap-2">
+<div style="display: flex; flex-direction: column; gap: 0.5rem;">
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
     <img src="./assets/icons/playwright.svg" width="30px">
     <a href="https://playwright.dev/">Playwright</a>
   </div>
 
-  <div class="align-items-center flex gap-2">
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
     <img src="./assets/icons/vitest.svg" width="30px">
     <a href="https://vitest.dev/">Vitest</a>
   </div>
@@ -92,26 +92,21 @@ My personal awesome list of tools/frameworks/languages.
 
 #### Tools
 
-<div class="flex flex-col gap-2">
-  <div class="align-items-center flex gap-2">
+<div style="display: flex; flex-direction: column; gap: 0.5rem;">
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
     <img src="./assets/icons/oxc.svg" width="30px">
     <a href="https://oxc.rs/">Javascript Oxidation Compiler</a>
   </div>
 
-  <div class="align-items-center flex gap-2">
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
     <img src="./assets/icons/tanstack.png" width="30px">
     <a href="https://tanstack.com/">Tanstack</a>
   </div>
 
-  <div class="align-items-center flex gap-2">
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
     <img src="./assets/icons/vitepress.svg" width="30px">
     <a href="https://vitepress.dev/">VitePress</a>
   </div>
 </div>
 
-<style>
-  .align-items-center { align-items: center; }
-  .flex { display: flex; }
-  .flex-col { flex-direction: column; }
-  .gap-2 { gap: 0.5rem; }
-</style>
+
