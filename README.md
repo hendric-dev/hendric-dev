@@ -22,91 +22,82 @@ My personal awesome list of tools/frameworks/languages.
 
 #### UI
 
-<div style="display: flex; flex-direction: column; gap: 0.5rem;">
-  <div style="display: flex; align-items: center; gap: 0.5rem;">
-    <img src="./assets/icons/dioxus.svg" width="30px">
-    <a href="https://dioxuslabs.com/">Dioxus</a>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 0.5rem;">
-    <img src="./assets/icons/vue-js.svg" width="30px">
-    <a href="https://vuejs.org/">Vue.js</a>
-  </div>
-</div>
+<table>
+  <tr>
+    <td valign="middle"><img src="./assets/icons/dioxus.svg" width="30px"></td>
+    <td valign="middle"><a href="https://dioxuslabs.com/">Dioxus</a></td>
+  </tr>
+  <tr>
+    <td valign="middle"><img src="./assets/icons/vue-js.svg" width="30px"></td>
+    <td valign="middle"><a href="https://vuejs.org/">Vue.js</a></td>
+  </tr>
+</table>
 
 #### Languages
 
-<div style="display: flex; gap: 0.5rem;">
-  <div style="display: flex; align-items: center; gap: 0.5rem;">
-    <img src="./assets/icons/rust.svg" width="30px">
-    <a href="https://www.rust-lang.org/">Rust</a>
-  </div>
-</div>
+<table>
+  <tr>
+    <td valign="middle"><img src="./assets/icons/rust.svg" width="30px"></td>
+    <td valign="middle"><a href="https://www.rust-lang.org/">Rust</a></td>
+  </tr>
+</table>
 
 #### Databases
 
-<div style="display: flex; flex-direction: column; gap: 0.5rem;">
-  <div style="display: flex; align-items: center; gap: 0.5rem;">
-    <img src="./assets/icons/spacetimedb.svg" width="30px">
-    <a href="https://spacetimedb.com/">SpacetimeDB</a>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 0.5rem;">
-    <img src="./assets/icons/surrealdb.svg" width="30px">
-    <a href="https://surrealdb.com/">SurrealDB</a>
-  </div>
-</div>
+<table>
+  <tr>
+    <td valign="middle"><img src="./assets/icons/spacetimedb.svg" width="30px"></td>
+    <td valign="middle"><a href="https://spacetimedb.com/">SpacetimeDB</a></td>
+  </tr>
+  <tr>
+    <td valign="middle"><img src="./assets/icons/surrealdb.svg" width="30px"></td>
+    <td valign="middle"><a href="https://surrealdb.com/">SurrealDB</a></td>
+  </tr>
+</table>
 
 #### Observability
 
-<div style="display: flex; flex-direction: column; gap: 0.5rem;">
-  <div style="display: flex; align-items: center; gap: 0.5rem;">
-    <img src="./assets/icons/grafana.svg" width="30px">
-    <a href="https://grafana.com/">Grafana</a>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 0.5rem;">
-    <img src="./assets/icons/opentelemetry.svg" width="30px">
-    <a href="https://opentelemetry.io/">OpenTelemetry</a>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 0.5rem;">
-    <img src="./assets/icons/vector.png" width="30px">
-    <a href="https://vector.dev/">Vector</a>
-  </div>
-</div>
+<table>
+  <tr>
+    <td valign="middle"><img src="./assets/icons/grafana.svg" width="30px"></td>
+    <td valign="middle"><a href="https://grafana.com/">Grafana</a></td>
+  </tr>
+  <tr>
+    <td valign="middle"><img src="./assets/icons/opentelemetry.svg" width="30px"></td>
+    <td valign="middle"><a href="https://opentelemetry.io/">OpenTelemetry</a></td>
+  </tr>
+  <tr>
+    <td valign="middle"><img src="./assets/icons/vector.png" width="30px"></td>
+    <td valign="middle"><a href="https://vector.dev/">Vector</a></td>
+  </tr>
+</table>
 
 #### Testing
 
-<div style="display: flex; flex-direction: column; gap: 0.5rem;">
-  <div style="display: flex; align-items: center; gap: 0.5rem;">
-    <img src="./assets/icons/playwright.svg" width="30px">
-    <a href="https://playwright.dev/">Playwright</a>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 0.5rem;">
-    <img src="./assets/icons/vitest.svg" width="30px">
-    <a href="https://vitest.dev/">Vitest</a>
-  </div>
-</div>
+<table>
+  <tr>
+    <td valign="middle"><img src="./assets/icons/playwright.svg" width="30px"></td>
+    <td valign="middle"><a href="https://playwright.dev/">Playwright</a></td>
+  </tr>
+  <tr>
+    <td valign="middle"><img src="./assets/icons/vitest.svg" width="30px"></td>
+    <td valign="middle"><a href="https://vitest.dev/">Vitest</a></td>
+  </tr>
+</table>
 
 #### Tools
 
-<div style="display: flex; flex-direction: column; gap: 0.5rem;">
-  <div style="display: flex; align-items: center; gap: 0.5rem;">
-    <img src="./assets/icons/oxc.svg" width="30px">
-    <a href="https://oxc.rs/">Javascript Oxidation Compiler</a>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 0.5rem;">
-    <img src="./assets/icons/tanstack.png" width="30px">
-    <a href="https://tanstack.com/">Tanstack</a>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 0.5rem;">
-    <img src="./assets/icons/vitepress.svg" width="30px">
-    <a href="https://vitepress.dev/">VitePress</a>
-  </div>
-</div>
-
-
+<table>
+  <tr>
+    <td valign="middle"><img src="./assets/icons/oxc.svg" width="30px"></td>
+    <td valign="middle"><a href="https://oxc.rs/">Javascript Oxidation Compiler</a></td>
+  </tr>
+  <tr>
+    <td valign="middle"><img src="./assets/icons/tanstack.png" width="30px"></td>
+    <td valign="middle"><a href="https://tanstack.com/">Tanstack</a></td>
+  </tr>
+  <tr>
+    <td valign="middle"><img src="./assets/icons/vitepress.svg" width="30px"></td>
+    <td valign="middle"><a href="https://vitepress.dev/">VitePress</a></td>
+  </tr>
+</table>
